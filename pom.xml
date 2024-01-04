@@ -32,7 +32,7 @@
 				<configuration>
 					<cloudHubDeployment>
 					<uri>https://anypoint.mulesoft.com</uri>
-					<muleVersion>4.5.1</muleVersion>
+					<muleVersion>4.5.2</muleVersion>
 					<username>Anuja232</username>
 					<password>Arjun@123</password>
 					<applicationName>${app.name}</applicationName>
